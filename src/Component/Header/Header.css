@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Graduate&display=swap");
+
+.container {
+  background: rgb(42, 42, 42);
+  border-radius: 10px;
+  font-family: "Graduate", cursive;
+}
+
+.container h3 {
+  font-size: 50px;
+  color: tomato;
+  width: 400px;
+  text-align: center;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.small {
+  color: #fff;
+  font-size: 30px;
+}
